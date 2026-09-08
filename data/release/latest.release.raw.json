@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 2170986,
       "digest": "sha256:fabdc4436e9a8a152d38060602f491bee4245ad54656f01991f33d511c87bfb1",
-      "download_count": 222,
+      "download_count": 227,
       "created_at": "2025-10-21T15:47:29Z",
       "updated_at": "2025-10-21T15:47:30Z",
       "browser_download_url": "https://github.com/rpm-software-management/dnf/releases/download/4.24.0/dnf-4.24.0.tar.gz"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 833,
       "digest": "sha256:87c014a78abca7ee821d9b33a1df930cc564890818534b373ed52808391e4146",
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2025-10-21T15:47:34Z",
       "updated_at": "2025-10-21T15:47:35Z",
       "browser_download_url": "https://github.com/rpm-software-management/dnf/releases/download/4.24.0/dnf-4.24.0.tar.gz.asc"
