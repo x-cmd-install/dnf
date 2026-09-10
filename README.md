@@ -22,11 +22,17 @@ x install dnf
 - **Latest**: `4.24.0` (2025-10-21)
 - **Last commit**: 2026-08-07
 - **Assets in release**: 2
-- **Published**: 2025-10-21T15:47:44Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [dnf-4.24.0.tar.gz](https://github.com/rpm-software-management/dnf/releases/download/4.24.0/dnf-4.24.0.tar.gz) | 2.1 MiB | `native/unknown` |
+| [dnf-4.24.0.tar.gz.asc](https://github.com/rpm-software-management/dnf/releases/download/4.24.0/dnf-4.24.0.tar.gz.asc) | 833 B | `other` |
 
 ## Popularity
 
-- **Stars**: 1,379 · **Forks**: 430 · **Open issues**: 199 · **Contributors**: 228
+- **Stars**: 1,380 · **Forks**: 430 · **Open issues**: 199 · **Contributors**: 228
 
 ## Totals (cumulative)
 
@@ -37,8 +43,8 @@ x install dnf
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
 | 30d | 2026-08-11 | 0 | 1 | 0 | 0 | 1 | 0 |
-| 90d | 2026-06-12 | 0 | 9 | 1 | 5 | 2 | 7 |
-| 360d | 2025-09-15 | 1 | 48 | 5 | 13 | 7 | 40 |
+| 90d | 2026-06-12 | 0 | 9 | 1 | 5 | 2 | 0 |
+| 360d | 2025-09-15 | 1 | 48 | 5 | 13 | 7 | 0 |
 
 ## Code size
 
@@ -67,8 +73,8 @@ Lowest-scoring checks:
 Install metadata for dnf lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `dnf` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/dnf.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/dnf.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:46:52Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:49:18Z._
