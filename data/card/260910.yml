@@ -7,7 +7,7 @@ about:
   latestVersion: "4.24.0"
   latestRelease: "4.24.0"
   latestPrerelease: ""
-  collectedAt: 2026-09-10T04:46:40Z
+  collectedAt: 2026-09-10T16:48:54Z
 timeline:
   created: 2012-03-09
   lastCommit: 2026-08-07
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2025-10-21
   lastPrerelease: 
 popularity:
-  star: 1379
+  star: 1380
   watcher: 58
   fork: 430
   release: 38
@@ -44,7 +44,7 @@ recent:
     openPR: 0
     closedIssue: 4
     openIssue: 1
-    commit: 1
+    commit: 0
   last90d:
     since: 2026-06-12
     release: 0
@@ -52,7 +52,7 @@ recent:
     openPR: 1
     closedIssue: 5
     openIssue: 2
-    commit: 7
+    commit: 0
   last180d:
     since: 2026-03-14
     release: 0
@@ -60,7 +60,7 @@ recent:
     openPR: 3
     closedIssue: 5
     openIssue: 5
-    commit: 19
+    commit: 0
   last360d:
     since: 2025-09-15
     release: 1
@@ -68,7 +68,7 @@ recent:
     openPR: 5
     closedIssue: 13
     openIssue: 7
-    commit: 40
+    commit: 0
   last720d:
     since: 2024-09-20
     release: 3
@@ -86,7 +86,7 @@ total:
   commit: 9802
 ---
 path: /home/runner/.x-repo/github.com/rpm-software-management/dnf
-collectedAt: 2026-09-10T04:46:48Z
+collectedAt: 2026-09-10T16:49:03Z
 loc:
   Python:
     code: 31029
