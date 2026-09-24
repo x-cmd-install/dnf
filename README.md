@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 1,381 · **Forks**: 430 · **Open issues**: 199 · **Contributors**: 228
+- **Stars**: 1,382 · **Forks**: 430 · **Open issues**: 199 · **Contributors**: 228
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-24 | 0 | 2 | 0 | 1 | 0 | 0 |
-| last60d | 2026-07-25 | 0 | 5 | 0 | 4 | 0 | 0 |
-| 90d | 2026-06-25 | 0 | 10 | 1 | 6 | 0 | 0 |
-| last180d | 2026-03-27 | 0 | 22 | 2 | 6 | 3 | 0 |
-| 360d | 2025-09-28 | 1 | 50 | 4 | 14 | 6 | 0 |
-| last720d | 2024-10-03 | 3 | 124 | 7 | 51 | 16 | 115 |
+| 30d | 2026-08-25 | 0 | 2 | 0 | 1 | 0 | 0 |
+| last60d | 2026-07-26 | 0 | 5 | 0 | 4 | 0 | 1 |
+| 90d | 2026-06-26 | 0 | 10 | 1 | 6 | 0 | 7 |
+| last180d | 2026-03-28 | 0 | 22 | 2 | 6 | 2 | 18 |
+| 360d | 2025-09-29 | 1 | 50 | 4 | 14 | 6 | 40 |
+| last720d | 2024-10-04 | 3 | 124 | 7 | 50 | 16 | 115 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for dnf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260923.yml` · 2026-09-23T05:04:09Z._
+_Snapshot: `data/card/260924.yml` · 2026-09-24T04:50:35Z._
