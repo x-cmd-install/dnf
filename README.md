@@ -14,24 +14,24 @@ x install dnf
 
 ## Code insight
 
-Total: **43,774** lines of code across **289** files in the top 5 languages.
+Total: **43,902** lines of code across **289** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 31,029 | 4,646 | 6,323 | 195 |
-| ReStructuredText | 7,291 | 0 | 2,959 | 30 |
+| Python | 31,131 | 4,658 | 6,353 | 195 |
+| ReStructuredText | 7,317 | 0 | 2,967 | 30 |
 | RPMSpecfile | 3,313 | 69 | 574 | 25 |
 | Xml | 771 | 0 | 1 | 13 |
 | Yaml | 698 | 0 | 0 | 26 |
 
 ## OpenSSF Scorecard
 
-Overall score: **3.4 / 10**
+Overall score: **4 / 10**
 
 Lowest-scoring checks:
 
+- **Packaging** (-1/10) — packaging workflow not detected
 - **Token-Permissions** (-1/10) — No tokens found
-- **Maintained** (1/10) — 1 commit(s) and 1 issue activity found in the last 90 days -- score normalized to 1
 - **Dangerous-Workflow** (-1/10) — no workflows found
 
 ## Source
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.24.0` (2025-10-21)
-- **Last commit**: 2026-08-07
+- **Last commit**: 2026-10-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,383 · **Forks**: 428 · **Open issues**: 199 · **Contributors**: 228
+- **Stars**: 1,383 · **Forks**: 429 · **Open issues**: 199 · **Contributors**: 229
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1075 · **Open PRs**: 14 · **Closed issues**: 151 · **Open issues**: 48 · **Commits**: 9802
+- **Releases**: 38 · **Merged PRs**: 1076 · **Open PRs**: 14 · **Closed issues**: 151 · **Open issues**: 48 · **Commits**: 9806
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-08-21 | 0 | 2 | 0 | 1 | 0 | 0 |
-| 90d | 2026-07-22 | 0 | 5 | 0 | 4 | 0 | 1 |
-| last180d | 2026-04-23 | 0 | 16 | 1 | 6 | 2 | 13 |
-| 360d | 2025-10-25 | 0 | 46 | 4 | 11 | 5 | 33 |
-| last720d | 2024-10-30 | 3 | 114 | 6 | 49 | 16 | 109 |
+| 30d | 2026-09-21 | 0 | 0 | 1 | 0 | 0 | 4 |
+| last60d | 2026-08-22 | 0 | 2 | 1 | 1 | 0 | 4 |
+| 90d | 2026-07-23 | 0 | 5 | 1 | 4 | 0 | 5 |
+| last180d | 2026-04-24 | 0 | 17 | 1 | 6 | 2 | 17 |
+| 360d | 2025-10-26 | 0 | 47 | 4 | 11 | 5 | 37 |
+| last720d | 2024-10-31 | 3 | 115 | 6 | 49 | 16 | 113 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for dnf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:52:00Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:44:58Z._
