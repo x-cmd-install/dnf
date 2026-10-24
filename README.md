@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.24.0` (2025-10-21)
-- **Last commit**: 2026-10-20
+- **Last commit**: 2026-10-23
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,383 · **Forks**: 428 · **Open issues**: 199 · **Contributors**: 229
+- **Stars**: 1,383 · **Forks**: 428 · **Open issues**: 200 · **Contributors**: 230
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1076 · **Open PRs**: 14 · **Closed issues**: 151 · **Open issues**: 48 · **Commits**: 9806
+- **Releases**: 38 · **Merged PRs**: 1077 · **Open PRs**: 13 · **Closed issues**: 151 · **Open issues**: 49 · **Commits**: 9807
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 0 | 1 | 0 | 0 | 4 |
-| last60d | 2026-08-24 | 0 | 2 | 1 | 1 | 0 | 4 |
-| 90d | 2026-07-25 | 0 | 5 | 1 | 4 | 0 | 5 |
-| last180d | 2026-04-26 | 0 | 17 | 1 | 6 | 2 | 17 |
-| 360d | 2025-10-28 | 0 | 46 | 4 | 11 | 5 | 37 |
-| last720d | 2024-11-02 | 3 | 114 | 6 | 49 | 16 | 112 |
+| 30d | 2026-09-24 | 0 | 1 | 0 | 0 | 1 | 5 |
+| last60d | 2026-08-25 | 0 | 3 | 0 | 1 | 1 | 5 |
+| 90d | 2026-07-26 | 0 | 6 | 0 | 4 | 1 | 6 |
+| last180d | 2026-04-27 | 0 | 18 | 0 | 6 | 3 | 18 |
+| 360d | 2025-10-29 | 0 | 47 | 3 | 11 | 6 | 38 |
+| last720d | 2024-11-03 | 3 | 115 | 5 | 49 | 17 | 113 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for dnf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:50:06Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:37:15Z._
