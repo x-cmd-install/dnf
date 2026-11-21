@@ -14,12 +14,12 @@ x install dnf
 
 ## Code insight
 
-Total: **43,932** lines of code across **289** files in the top 5 languages.
+Total: **43,931** lines of code across **289** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Python | 31,161 | 4,668 | 6,360 | 195 |
-| ReStructuredText | 7,317 | 0 | 2,967 | 30 |
+| ReStructuredText | 7,316 | 0 | 2,967 | 30 |
 | RPMSpecfile | 3,313 | 69 | 574 | 25 |
 | Xml | 771 | 0 | 1 | 13 |
 | Yaml | 698 | 0 | 0 | 26 |
@@ -42,27 +42,27 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.24.0` (2025-10-21)
-- **Last commit**: 2026-11-16
+- **Last commit**: 2026-11-20
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 1,382 · **Forks**: 428 · **Open issues**: 202 · **Contributors**: 232
+- **Stars**: 1,382 · **Forks**: 427 · **Open issues**: 202 · **Contributors**: 232
 
 ## Totals (cumulative)
 
-- **Releases**: 38 · **Merged PRs**: 1081 · **Open PRs**: 16 · **Closed issues**: 153 · **Open issues**: 49 · **Commits**: 9809
+- **Releases**: 38 · **Merged PRs**: 1082 · **Open PRs**: 15 · **Closed issues**: 154 · **Open issues**: 48 · **Commits**: 9810
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 4 | 3 | 2 | 1 | 2 |
-| last60d | 2026-09-21 | 0 | 5 | 3 | 2 | 1 | 7 |
-| 90d | 2026-08-22 | 0 | 7 | 3 | 3 | 1 | 7 |
-| last180d | 2026-05-24 | 0 | 20 | 3 | 8 | 2 | 18 |
-| 360d | 2025-11-25 | 0 | 49 | 6 | 12 | 6 | 38 |
-| last720d | 2024-11-30 | 2 | 115 | 8 | 44 | 15 | 112 |
+| 30d | 2026-10-22 | 0 | 5 | 2 | 2 | 1 | 3 |
+| last60d | 2026-09-22 | 0 | 6 | 2 | 2 | 1 | 8 |
+| 90d | 2026-08-23 | 0 | 8 | 2 | 3 | 1 | 8 |
+| last180d | 2026-05-25 | 0 | 21 | 2 | 8 | 2 | 19 |
+| 360d | 2025-11-26 | 0 | 50 | 5 | 12 | 6 | 39 |
+| last720d | 2024-12-01 | 2 | 116 | 7 | 45 | 14 | 113 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for dnf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T07:18:16Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T07:01:17Z._
