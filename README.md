@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 0 | 5 | 2 | 1 | 1 | 0 |
-| last60d | 2026-09-28 | 0 | 6 | 2 | 2 | 1 | 0 |
-| 90d | 2026-08-29 | 0 | 8 | 2 | 3 | 1 | 0 |
-| last180d | 2026-05-31 | 0 | 19 | 2 | 8 | 2 | 0 |
-| 360d | 2025-12-02 | 0 | 49 | 5 | 12 | 6 | 0 |
-| last720d | 2024-12-07 | 2 | 115 | 7 | 43 | 14 | 113 |
+| 30d | 2026-10-29 | 0 | 5 | 2 | 1 | 1 | 3 |
+| last60d | 2026-09-29 | 0 | 6 | 2 | 2 | 1 | 8 |
+| 90d | 2026-08-30 | 0 | 8 | 2 | 3 | 1 | 8 |
+| last180d | 2026-06-01 | 0 | 19 | 2 | 8 | 2 | 17 |
+| 360d | 2025-12-03 | 0 | 49 | 5 | 12 | 6 | 38 |
+| last720d | 2024-12-08 | 2 | 115 | 7 | 43 | 14 | 113 |
 
 ## Release assets
 
@@ -80,4 +80,4 @@ Install metadata for dnf lives in the [x-cmd/install](https://github.com/x-cmd/i
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T08:40:39Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:55:19Z._
